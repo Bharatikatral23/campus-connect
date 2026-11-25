@@ -1,0 +1,8 @@
+{
+  "name": "campusconnect-fullstack",
+  "version": "1.0.0",
+  "description": "CampusConnect - Full Stack project (HTML, CSS, JavaScript front-end + Node.js back-end)",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "license": "MIT"
+}
